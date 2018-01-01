@@ -1,0 +1,15 @@
+<?php
+$city='';
+$apiToken='';
+$stationID='';
+$username='';
+$timezone='';
+$mode='mail';//'html'/'email'
+$mailHost="";
+$mailUsername="";
+$mailPassword="";
+$mailPort=587;
+$mailFromAddress="";
+$mailToAddress="";
+$mailReplyToAddress="";
+?>

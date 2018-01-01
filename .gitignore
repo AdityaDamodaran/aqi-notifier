@@ -1,0 +1,3 @@
+#Ignore the composer generated vendor folder
+vendor/
+.project
